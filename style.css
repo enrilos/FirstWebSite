@@ -1,0 +1,100 @@
+.container {  
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background: #f9f9f9;
+    font-size: 20px;
+    color: black;
+    font-family: 'Lato', cursive;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    width: 40%;
+    letter-spacing: 2px;
+    background: rgba(22, 22, 22, 0.43);
+    
+}
+
+.parallax {
+    background: url(nystreet.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 925px;
+    margin-bottom: -27px;
+}
+
+.home {
+    background: #232323;
+    text-align: center;
+    color: white;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 27px;
+}
+
+
+.parallax2 {
+    background: url(bridge.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 750px;
+    margin-bottom: -27px;
+}
+
+.about {
+    background: #232323;
+    text-align: center;
+    color: white;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 27px;
+}
+
+.parallax3 {
+    background: url(ocean.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 750px;
+    margin-bottom: -27px;
+}
+
+.parallax4 {
+    background: url(work.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 750px;
+    margin-bottom: -27px;
+}
+
+.contact {
+    background: #232323;
+    text-align: center;
+    color: white;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 27px;
+}
+
+.defaultText {
+    background: whitesmoke;
+    text-align: center;
+    color: black;
+    font-family: 'Lato', cursive;
+    font-size: 27px;
+}
+
+.email {
+    color: #28cdff;
+    font-weight: bold;
+}
+
+.copyright {
+    margin-top: 27px;
+    background: #232323;
+    color: whitesmoke;
+    font-size: 19px;
+}
